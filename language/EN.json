@@ -4,52 +4,52 @@
     "AUTHOR"  : "sanuwa official",
     "STRINGS" : { 
                   "aqua" : {   
-                            "COMMAND"  : "Command",
-                            "DESC"     : "Description",
-                            "EXAMPLE"  : "Example",
+                            "COMMAND"  : "امر",
+                            "DESC"     : "وصف",
+                            "EXAMPLE"  : "مثلا",
                             "NOT_FOUND": "*I couldnt find a command like this*",
                             "WARN"     : "Warn"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
-                            "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
-                            "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
-                            "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
-                            "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
-                            "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
-                            "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
-                            "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
-                            "N_IG "    : "🧜‍♀️💬ENTER A INSTAGRAM LINK",
-                            "N_FOUND"  : "*NOT FOUND‼️*"
+                            "N_SONG"   : "*🧜‍♀️💬ادخل اسم الاغنية/موسيقى*\nex : .song faded" ,
+                            "NOT_SONG" : "*صوت غير متوفر‼️*" ,
+                            "S_YT"     : "*🔍بحث في اليوتيوب...*" ,
+                            "N_YT"     : "*🧜‍♀️💬ادخل الموضوع* \nex : .getyt sri lanka cricket" ,
+                            "N_VID"    : "*🧜‍♀️💬ادخل رابط فيديو يوتيوب*\nex : .video https://youtu.be/pyCIKli4YUA" ,
+                            "N_FB"     : "*🧜‍♀️💬ادخل رابط فيديو فايسبوك*" , 
+                            "N_MF"     : "*🧜‍♀️💬ادخل رابط ميديافاير*" , 
+                            "N_TIK"    : "*🧜‍♀️💬ادخل رابط فيديو تيكتوك*" ,
+                            "NOT_VID"  : "*فيديو غير موجود‼️*", 
+                            "N_IG "    : "🧜‍♀️💬ادخل رابط انستاقرام",
+                            "N_FOUND"  : "*غير موجود‼️*"
                           } ,
                 "admin" : {  
-                             "UR_NOT_ADMIN": "*You are not admin in this group!*",
-                             "IM_NOT_ADMIN": "*I am not admin in this group!*",
-                             "BANNED": "kicked out of the group!",
-                             "GIVE_ME_USER": "*Give me a user!*" ,
-                             "USER_IS_ADMIN" : "*Can not kick group Admins!*" ,
-                             "ADDED"         : "added to the group!!" ,
-                             "E_USER"        : "*🧜‍♀️💬  Enter the number to be added to the group with the country code without + mark and space.*",
-                             "ISN_ADMIN"     : "*🧜‍♀️💬The person you mentioned is not a group admin.*",
-                             "IS_ADMIN"      : "*🧜‍♀️💬The person you mentioned is a group admin.*",
-                             "MUTE"          : "*🧜‍♀️💬The group chat has muted!.*",
-                             "UNMUTE"        : "*🧜‍♀️💬The group chat has unmuted!.*",
+                             "UR_NOT_ADMIN": "*انت لست اداري في المجموعة!*",
+                             "IM_NOT_ADMIN": "*انا لست اداري في المجموعة!*",
+                             "BANNED": "طرد من المجموعة!",
+                             "GIVE_ME_USER": "*اعطيني اليوزر!*" ,
+                             "USER_IS_ADMIN" : "*لا تستطيع طرد اداري!*" ,
+                             "ADDED"         : "تمت اضافته للمجموعة!!" ,
+                             "E_USER"        : "*🧜‍♀️💬  ادخل رقم شخص الدي تريد اضافته مع رمز دولة بدون + و مساحة.*",
+                             "ISN_ADMIN"     : "*🧜‍♀️💬شخص الدي قمت باشارة اليه غير موجود في المجموعة.*",
+                             "IS_ADMIN"      : "*🧜‍♀️💬شخص الدي قمت باشارة اليه اداري في المجموعة.*",
+                             "MUTE"          : "*🧜‍♀️💬تم اقفال المجموعة!.*",
+                             "UNMUTE"        : "*🧜‍♀️💬تم فتح المجموعة!.*",
                              "PROMOTE"       : "has been promoted !",
                              "DEMOTE"        : "has been demoted !"
     
                            } ,
                 "stic" : {
-                              "NEED"   : "*🧜‍♀️💬 please mention an image or video*" ,
-                              "C_STIC" : "```🧰creating sticker...```" ,
-                              "N_STIC" : "*🧜‍♀️💬 Please mention a sticker.*" ,
-                              "C_IMG"  : "```🧰converting sticker to image...```" ,
-                              "C_VID"  : "```🧰converting animated sticker to video...```" 
+                              "NEED"   : "*🧜‍♀️💬 رجاء قم باشارة او اضافة صورة او فيديو*" ,
+                              "C_STIC" : "```🧰جار صناعة الستكر...```" ,
+                              "N_STIC" : "*🧜‍♀️💬 رجاء الاشارة الى ستكرز.*" ,
+                              "C_IMG"  : "```🧰جار تحويل ستكر الى صورة...```" ,
+                              "C_VID"  : "```🧰جار تحويل الستكر المتحرك لفيديو...```" 
                            },
                
                 "apk"  :  {  
-                              "N_LINK" : "*🧜‍♀️💬 Enter a google playstore app link .*" ,
-                              "ERROR"  : "*🧜‍♀️💬APK Not Found!.*"
+                              "N_LINK" : "*🧜‍♀️💬 رجاء اضافة رابط تطبيق من قوقل بلاي .*" ,
+                              "ERROR"  : "*🧜‍♀️💬تطبيق غير متوفر!.*"
     
                            },
          "filters": {
